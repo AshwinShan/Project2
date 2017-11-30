@@ -24,10 +24,12 @@ font-size: 16px;
 }
 .navbar-inverse{
 	border-color:transparent;
-	
+	position: fixed; 
+    top: 0; 
+    width: 100%;
 }
 .navbar-right{
-	margin-right: 0px;
+	margin-right: 25px;
 }
 
 #myCarousel .carousel-caption {
@@ -177,3 +179,4 @@ footer {
 .footer-icons p{
 	margin-top: 25px;
 }
+
